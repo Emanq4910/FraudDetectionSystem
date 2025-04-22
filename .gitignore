@@ -1,0 +1,2 @@
+echo "creditcard.csv" >> .gitignore
+
