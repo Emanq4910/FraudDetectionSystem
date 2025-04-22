@@ -12,7 +12,7 @@ Credit card fraud is a significant issue in the financial industry. Detecting fr
 
  Objectives
 
-- Load and explore the Credit Card Fraud dataset
+- Load and explore the Credit Card Fraud dataset from here :https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 - Preprocess the data (scaling, cleaning)
 - Address class imbalance with **SMOTE**
 - Train a **Random Forest** classifier (easily swappable with Gradient Boosting)
